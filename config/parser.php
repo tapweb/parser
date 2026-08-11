@@ -6,7 +6,7 @@
  * @version    1.9-dev
  * @author     Fuel Development Team
  * @license    MIT License
- * @copyright  2010-2025 Fuel Development Team
+ * @copyright  2010-2026 Fuel Development Team
  * @link       https://fuelphp.com
  */
 
@@ -64,7 +64,7 @@ return array(
 		'environment' => array(
 			'debug'               => false,
 			'charset'             => 'utf-8',
-			'base_template_class' => 'Twig\Template',
+			'base_template_class' => 'Twig_Template',
 			'cache'               => APPPATH.'cache'.DS.'twig'.DS,
 			'auto_reload'         => true,
 			'strict_variables'    => false,

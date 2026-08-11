@@ -1,8 +1,8 @@
 {
-	"name": "tapweb/parser",
+	"name": "fuel/parser",
 	"description" : "FuelPHP 1.x Parser Package",
 	"type": "fuel-package",
-	"homepage": "https://github.com/tapweb/parser",
+	"homepage": "https://github.com/fuel/parser",
 	"license": "MIT",
 	"authors": [
 		{
@@ -11,6 +11,6 @@
 		}
 	],
 	"require": {
-		"composer/installers": "^2.3"
+		"composer/installers": "^2.3.0"
 	}
 }
